@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Alok Anand 👋  
+**Full-Stack Web Development | Competitive Programming**
 
-<!--
-**alok13fe/alok13fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building scalable, high-performance applications—especially real-time systems that involve WebSockets, Media Streaming, and Distributed architectures. I enjoy solving complex engineering problems and take pride in writing clean, efficient code.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 B.Tech in Computer Science & Engineering  
+- 💡 Passionate about distributed systems, real-time collaboration tools, and backend engineering  
+- 🛠 Experienced with modern full-stack development, backend APIs, performance tuning, and DevOps workflows  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=c,cpp,python,go,html,css,tailwind,js,ts,react,nextjs,redux,nodejs,express,mongodb,postgres,git,github,aws,docker,kubernetes,redis,figma,vscode,postman" />
+
+## 🏆 Achievements & Certifications
+
+* **Flipkart Grid 6.0:** Advanced to Level 2 (Software Development Track), placing among the top contestants from **8,165+ teams** nationwide.
+* **Problem Solving:** Solved **600+** problems on Data Structures & Algorithms on platforms like LeetCode and GeeksforGeeks.
+* **Smart India Hackathon:** Selected at the college level in both **2023** and **2024**.
+* **Meta Advanced React:** Certified by Coursera (2024), mastering advanced hooks, context API, performance optimization, and testing.
+
+---
